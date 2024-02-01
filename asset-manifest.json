@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usandoReact/static/css/main.8124e9d4.css",
+    "main.js": "/usandoReact/static/js/main.e31033ab.js",
+    "index.html": "/usandoReact/index.html",
+    "main.8124e9d4.css.map": "/usandoReact/static/css/main.8124e9d4.css.map",
+    "main.e31033ab.js.map": "/usandoReact/static/js/main.e31033ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8124e9d4.css",
+    "static/js/main.e31033ab.js"
+  ]
+}
